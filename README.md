@@ -1,3 +1,8 @@
+**NOTE: A copy of this repository has been included into the Freescale Github account. The copy can be
+found [here](https://github.com/Freescale/gstreamer-imx). Development will continue there, not here.
+Please use the repository over there instead.**
+
+
 gst-fsl
 =======
 
